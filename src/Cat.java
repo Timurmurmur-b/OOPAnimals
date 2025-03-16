@@ -14,6 +14,6 @@ public class Cat extends Animal{
     }
     @Override
     public void speak(){
-        System.out.println("Собака мяукает");
+        System.out.println("Кошка мяукает");
     }
 }
